@@ -1,7 +1,7 @@
 {
   "private": true,
 	"scripts":{
-		"build":"yarn tauri build",
+		"build":"yarn tauri build"
 	}
 	"workspaces": [
 		"packages/core",
